@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #344a72;
+}
+
+.container {
+  background-color: white;
+  width: 320px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.container1 {
+  margin-left: 10px;
+}
+
+.container1 section input {
+  width: 270px;
+  height: 25px;
+  border-color: #b7b7be;
+}
+
+.container1 section label {
+  color: #444453;
+}
+
+.container1 section {
+  margin-bottom: 15px;
+}
+
+.sign {
+  width: 100px;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+button {
+  width: 270px;
+  padding: 3px;
+  background-color: #49c1a2;
+  border-color: #49c1a2;
+  border-radius: 5px;
+  color: #fafafa;
+  font-weight: bold;
+}
+
+header p {
+  width: 210px;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.login {
+  width: 250px;
+  margin: auto;
+  margin-top: 10px;
+  color: white;
+}
+
+.login a {
+  color: #49c1a2;
+}
+
+a {
+  text-decoration: none;
+}
